@@ -1,6 +1,6 @@
 /*
  * CS 4361.001
- * TMW160530
+ * Tyler Mark Waller
  * Exercise 1.6 from Textbook
  * Using Java, created the scene of Tetris with a little bit
  * of functionality in the case where the pause will appear
