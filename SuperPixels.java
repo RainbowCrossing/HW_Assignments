@@ -1,5 +1,4 @@
 /*
- * TMW160530 
  * Tyler Waller
  * Java program to show case drawLine and drawCircle function
  * along with the dGrid function for a grid like showing all
