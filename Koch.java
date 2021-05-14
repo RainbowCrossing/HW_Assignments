@@ -1,4 +1,4 @@
-//	TMW160530, tmw160530@utdallas.edu
+//	Tyler Mark Waller
 //	This is a modification of the Koch.java program
 //	which was supplied in the book. The modifcation
 //	is small, but used to create the Koch Snowflake.
