@@ -1,5 +1,5 @@
 /*
- * Tyler Waller tmw160530@utdallas.edu
+ * Tyler Waller
  * This program to is meant to implement the
  * instructions from homework assignment 4
  * with the ideals surrounding that of excercise
