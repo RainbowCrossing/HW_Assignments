@@ -1,6 +1,5 @@
 /*
  * Tyler Waller
- * TMW160530@utdallas.edu
  * This program is meant to create a square in counterclockwise
  * rotation one points A and B. A starting out on the right and
  * B on the left to create the counterclockwise movement.
